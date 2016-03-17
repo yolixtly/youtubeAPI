@@ -1,0 +1,18 @@
+
+form {
+	margin: 0 auto;
+	width: 60%;
+	text-align: center;
+	border: 3px dotted green;
+	padding: 1rem;
+	background-color: pink;
+}
+div{
+	margin: 0 auto;
+	width: 63%;
+	text-align: center;
+	/*border: 3px dotted green;*/
+	padding: 2rem;
+	background-color: mintcream;
+
+}
