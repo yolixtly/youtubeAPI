@@ -2,7 +2,6 @@ $(function(){
     $('#search-term').submit(function(event){
       event.preventDefault();
       var searchTerm = $('#query').val();
-      alert(searchTerm);
       getRequest(searchTerm);
     });
   });
