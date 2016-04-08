@@ -30,3 +30,4 @@ function showResults(results){
   });
   $('#search-results').html(html);
 }
+
