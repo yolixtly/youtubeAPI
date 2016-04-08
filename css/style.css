@@ -1,18 +1,30 @@
-
-form {
-	margin: 0 auto;
-	width: 60%;
-	text-align: center;
-	border: 3px dotted green;
-	padding: 1rem;
-	background-color: pink;
+.bg-style {
+background-image: url(../images/header.jpg);
+background-size: cover;
+padding: 5rem 0 5rem 0;
+border-bottom: 1rem solid #e67e22;
 }
-div{
-	margin: 0 auto;
-	width: 63%;
-	text-align: center;
-	/*border: 3px dotted green;*/
-	padding: 2rem;
-	background-color: mintcream;
+.logo {
+	color: red;
+}
 
+.navbar-green {
+	background: #f1c40f !important;
+	border: none;
+}
+
+.btn-style  {
+	background: #e67e22 !important;
+	color: white;
+	text-shadow: none;
+	font-family: 'Lobster', cursive;
+
+}
+#query {
+	color: #27ae60;
+	font-family: 'Lobster', cursive;
+	font-size: 2rem;
+}
+body {
+	background-color: black;
 }
