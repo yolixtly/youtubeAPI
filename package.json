@@ -1,0 +1,25 @@
+{
+  "name": "search-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolixtly/youtubeAPI.git"
+  },
+  "author": "yolixtly anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolixtly/youtubeAPI/issues"
+  },
+  "homepage": "https://github.com/yolixtly/youtubeAPI#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  },
+  "devDependencies": {
+    "less": "^2.6.1"
+  }
+}
+
